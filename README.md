@@ -1,27 +1,25 @@
 # 📝 Task Manager
 
-**Простое веб-приложение для управления задачами.**
+Simple Task Management Web Application
 
-## 🚀 Функционал
-- Добавление, удаление и редактирование задач.
-- Установка статусов задач (в работе, выполнено и т. д.).
-- Использование локального хранилища или базы данных.
-- Минималистичный UI на TailwindCSS.
-
-## 📸 Скриншоты
+## 🚀 Features
+- Add, delete, and edit tasks.
+- Set task statuses (in progress, completed, etc.).
+- Use local storage or a database.
+- Minimalist UI with TailwindCSS.
+- 
+📸 Screenshots
 ![Task Manager UI](https://github.com/p3nt4gon5/task-manager/blob/main/screenshot.jpg)
-
-## 🔧 Установка и запуск
-
-1. Установите зависимости:
+## 🔧 Installation & Setup
+1. Install dependencies:
    ```sh
    npm install
    
-2. Запустите сервер разработки:
+2. Start the development server:
    ```sh
    npm run dev
 
-## 🛠️ Используемые технологии
-- Vite + React – быстрый фронтенд
-- Tailwind CSS – стилизация
-- TypeScript – строгая типизация
+## 🛠️ Technologies Used
+- Vite + React – Fast frontend development
+- Tailwind CSS – Styling
+- TypeScript – Strong typing

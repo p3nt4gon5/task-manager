@@ -9,7 +9,7 @@
 - Минималистичный UI на TailwindCSS.
 
 ## 📸 Скриншоты
-![Task Manager UI]([![2025-02-27-201555201.png](https://i.postimg.cc/j2GPb9kJ/2025-02-27-201555201.png)](https://postimg.cc/dZjLRWFq))
+![Task Manager UI](https://postimg.cc/dZjLRWFq)
 
 ## 🔧 Установка и запуск
 
